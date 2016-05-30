@@ -70,8 +70,6 @@
     <Compile Include="SystemDialogs.cs" />
     <Compile Include="Validations\EmptyTextFieldValidator.cs" />
     <Compile Include="Validations\HyperlinkFieldValidator.cs" />
-    <Compile Include="ViewModels\MainWindowViewModel.cs" />
-    <Compile Include="ViewModels\ViewModelBase.cs" />
     <Page Include="EditHyperlink.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>

@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HyperlinksManager", "UI\HyperlinksManager\HyperlinksManager\HyperlinksManager.csproj", "{9F0DE85F-9D77-465E-8231-9FEF711661A0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HyperlinksXml", "Components\HyperlinksXml\HyperlinksXml.csproj", "{A656DBC6-ACB0-4B5D-971D-F80BD24B387C}"
